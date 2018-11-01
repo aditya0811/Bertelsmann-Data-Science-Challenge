@@ -1,4 +1,4 @@
-# FOR RECRUITERS
+
 
 This repository contains some problems on SQL which are from Bertelsman Data Science Challenge UDACITY.This repository only contains queries to extract data from the files which are not present here,but we can get an intuition about that query by reading the question.
   
